@@ -11,6 +11,7 @@ Kelas : TI.22.A.3
 ### Tugas Projects UAS
 
 ![img](Foto/Soal%20Projects%20UAS.png)
+![img](Foto/Soal%20Projects%20UAS.png)
 
 ## PEMBAHASAN
 
