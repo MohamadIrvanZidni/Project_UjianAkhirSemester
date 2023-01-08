@@ -46,6 +46,6 @@ Menambahkan sebuah fungsi untuk melihat data yang sudah di input oleh user
 
 Di program utama ini akan menampilkan menu utama yang dimana user dapat memilih :
 
-[Lihat Data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#input_nilai) / [Tambah Data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#1-fungsi-tambah_data) / [hapus_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#2-fungsi-hapus_data) / [ubah_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#3-fungsi-ubah_data) / [cari_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#4-fungsi-cari_data) / berhenti untuk menjalankan program
+[Lihat Data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#input_nilai) / [tambah_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#1-fungsi-tambah_data) / [hapus_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#2-fungsi-hapus_data) / [ubah_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#3-fungsi-ubah_data) / [cari_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#4-fungsi-cari_data) / berhenti untuk menjalankan program
 
 ### TAMPILAN PROGRAM
