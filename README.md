@@ -20,7 +20,7 @@ data.mahasiswa = {} adalah untuk menampung list data yang nanti akan di input ol
 
 1. Fungsi tambah_data
 
-Menambahkan fungsi tambah data seperti nama, nim, tugas, uts, uas yang akan di input oleh user di fungsi ([input(nilai)](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#input_nilai)) kemudian data tersebut akan masuk ke dalam list data.mahasiswa = {} yang telah dibuat terlebih dahulu
+Menambahkan fungsi tambah data seperti nama, nim, tugas, uts, uas yang akan di input oleh user di fungsi [input_nilai](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#input_nilai) kemudian data tersebut akan masuk ke dalam list data.mahasiswa = {} yang telah dibuat terlebih dahulu
 
 2. Fungsi ubah_data
 3. Fungsi hapus_data
