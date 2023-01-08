@@ -24,13 +24,15 @@ Menambahkan fungsi tambah data seperti nama, nim, tugas, uts, uas yang akan di i
 
 ### 2. Fungsi hapus_data
 
-Menambahkan fungsi hapus data yang di inginkan oleh user, apakah user akan menghapus salah satu data atau tidak, dengan cara memasukkan list 'nama' di dalam data.mahasiswa = {} yang telah di input. Apabila list 'nama' yang dimasukkan sesuai maka akan lanjut ke fungsi [hapus_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#2-fungsi-hapus_data), dan apabila list 'nama' yang dimasukkan tidak sesuai maka akan kembali ke [main.py](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#mainpy)
+Menambahkan fungsi hapus data yang di inginkan oleh user, apakah user ingin menghapus salah satu data atau tidak, dengan cara memasukkan list 'nama' di dalam 'data.mahasiswa = {}' yang telah di input. Apabila list 'nama' yang dimasukkan sesuai maka akan lanjut ke fungsi [hapus_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#2-fungsi-hapus_data), dan apabila list 'nama' yang dimasukkan tidak sesuai maka akan kembali ke [main.py](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#mainpy)
 
 ### 3. Fungsi ubah_data
 
-Menambahkan fungsi ubah data yang di inginkan oleh user, apakah user akan mengubah salah satu data ataupun mengubah semua data, dengan cara memasukkan list 'nama' di dalam data.mahasiswa = {} yang telah di input. Apabila list 'nama' yang dimasukkan sesuai maka akan lanjut ke fungsi [ubah_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#3-fungsi-ubah_data), dan apabila list 'nama' yang dimasukkan tidak sesuai maka akan kembali ke [main.py](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#mainpy)
+Menambahkan fungsi ubah data yang di inginkan oleh user, apakah user ingin mengubah salah satu data ataupun mengubah semua data, dengan cara memasukkan list 'nama' di dalam 'data.mahasiswa' = {} yang telah di input. Apabila list 'nama' yang dimasukkan sesuai maka akan lanjut ke fungsi [ubah_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#3-fungsi-ubah_data), dan apabila list 'nama' yang dimasukkan tidak sesuai maka akan kembali ke [main.py](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#mainpy)
 
 ### 4. Fungsi cari_data
+
+Menambahkan fungsi cari data yang di inginkan oleh user, apakah user ingin mencari data yang telah di input sebelumnya atau tidak, dengan cara memasukkan list 'nama' di dalam 'data.mahasiswa' = {} yang telah di input. Apabila list 'nama' yang dimasukkan sesuai maka akan lanjut ke fungsi [cari_data](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#4-fungsi-cari_data), dan apabila list 'nama' yang dimasukkan tidak sesuai maka akan kembali ke [main.py](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#mainpy)
 
 ## input_nilai
 
