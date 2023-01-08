@@ -19,6 +19,9 @@ Kelas : TI.22.A.3
 data.mahasiswa = {} adalah untuk menampung list data yang nanti akan di input oleh user
 
 1. Fungsi tambah_data
+
+Menambahkan fungsi tambah data seperti nama, nim, tugas, uts, akhir yang akan di input oleh user kemudian data tersebut akan masuk ke dalam list data.mahasiswa = {} yang telah dibuat terlebih dahulu
+
 2. Fungsi ubah_data
 3. Fungsi hapus_data
 4. Fungsi cari_data
