@@ -17,4 +17,11 @@ Kelas : TI.22.A.3
 ### daftar_nilai
 
 ### input_nilai
+
+Menambahkan fungsi input data yang nanti nya akan di input oleh user, seperti  input_nama(), input_nim(), input_tugas(), input_uts(), input_uas() dan hasil perhitungan semua data, yang nanti akan di masukkan kedalam data = {}
+
 ### view nilai
+
+Menambahkan sebuah fungsi untuk melihat data yang sudah di input oleh user
+
+### TAMPILAN PROGRAM
