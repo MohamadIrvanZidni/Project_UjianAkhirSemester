@@ -24,7 +24,7 @@ Menambahkan fungsi tambah data seperti nama, nim, tugas, uts, uas yang akan di i
 
 ### 2. Fungsi ubah_data
 
-Menambahkan fungsi ubah data yang di inginkan oleh user apakah user akan mengubah salah satu data ataupun mengubah semua data, dengan cara memasukkan nama dari data yang sudah di input. Apabila nama yang dimasukkan tidak sesuai maka akan kembali ke menu awal, apabila nama yang dimasukkan sesuai maka akan akan lanjut ke fungsi ubah_data dan apabila data berhasil 
+Menambahkan fungsi ubah data yang di inginkan oleh user apakah user akan mengubah salah satu data ataupun mengubah semua data, dengan cara memasukkan nama dari data yang sudah di input. Apabila nama yang dimasukkan tidak sesuai maka akan kembali ke [main.py](https://github.com/MohamadIrvanZidni/Project_UjianAkhirSemester#main_py), apabila nama yang dimasukkan sesuai maka akan akan lanjut ke fungsi ubah_data dan apabila data berhasil 
 
 ### 3. Fungsi hapus_data
 ### 4. Fungsi cari_data
@@ -37,6 +37,6 @@ Menambahkan fungsi input data yang nanti nya akan di input oleh user, seperti  i
 
 Menambahkan sebuah fungsi untuk melihat data yang sudah di input oleh user
 
-## main_py
+## main.py
 
 ### TAMPILAN PROGRAM
