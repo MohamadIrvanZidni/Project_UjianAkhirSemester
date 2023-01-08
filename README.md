@@ -7,6 +7,7 @@ NIM : 312210308
 Kelas : TI.22.A.3
 
 | YouTube | [click here](https://youtu.be/8gmKe5UTEdk)  |
+| GDrive  | [click here](https://drive.google.com/file/d/1VMAmOJh856q8_0oVvlUxgZcGMqdGnT1Q/view?usp=sharing)  |
 
 # SOAL
 
