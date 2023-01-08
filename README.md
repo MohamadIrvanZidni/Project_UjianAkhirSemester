@@ -6,6 +6,8 @@ NIM : 312210308
 
 Kelas : TI.22.A.3
 
+| YouTube | [click here](https://youtu.be/8gmKe5UTEdk)  |
+
 # SOAL
 
 ## Tugas Projects UAS
