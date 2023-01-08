@@ -12,5 +12,9 @@ Kelas : TI.22.A.3
 
 ![Img](Foto/Soal%20Projects%20UAS.png)
 
-## PEMBAHASANn
+## PEMBAHASAN
 
+### daftar_nilai
+
+### input_nilai
+### view nilai
